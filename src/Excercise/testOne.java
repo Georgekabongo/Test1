@@ -26,6 +26,17 @@ public class testOne {
 		System.out.println(count);
 
 	}
-	
+	public void two()
+	{
+		System.out.println("KM");
+	}
+	public void three()
+	{
+		System.out.println("Mbaya");
+	}
+	public void four()
+	{
+		System.out.println("George");
+	}
 
 }
