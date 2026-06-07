@@ -30,6 +30,14 @@ public class JavaTest {
 		System.out.println("Total price:"+ total);
 		
 	}
+	public void customer ()
+	{
+	  System.out.println("enter your name");   	
+	}
+	public void product ()
+	{
+	  System.out.println("enter your product");   	
+	}
 	public static void items()
 	{
 		String [] arr = {"tomato","pineapple","mango","strawberry","kiwi","cherry"};
@@ -120,5 +128,6 @@ public class JavaTest {
 			}
 			System.out.println();
 		}
+		
 	}
 }
